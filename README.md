@@ -8,5 +8,6 @@ An opinionated list of website with awesome fonts
 body {
     font-family: SFNSText,Helvetica Neue,sans-serif;
     text-rendering: optimizeLegibility;
+    font-weight: 300;
 }
 ```
