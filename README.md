@@ -12,7 +12,7 @@ body {
 }
 ```
 
-1. ## [leadershippy](https://wildling.co/prologue/)
+2. ## [leadershippy](https://wildling.co/prologue/)
 ``` css
 html {
     /* sans-serif as a very good base alternative*/
@@ -30,4 +30,4 @@ body {
 }
 ```
 
-1. ## https://www.fontsquirrel.com/
+3. ## https://www.fontsquirrel.com/
