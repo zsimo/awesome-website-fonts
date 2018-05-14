@@ -3,7 +3,7 @@ An opinionated list of website with awesome fonts
 
 
 
-0. ## [iCloud Photos](https://www.icloud.com/#photos)
+1. ## [iCloud Photos](https://www.icloud.com/#photos)
 ``` css
 body {
     font-family: SFNSText,Helvetica Neue,sans-serif;
@@ -12,7 +12,7 @@ body {
 }
 ```
 
-0. ## [leadershippy](https://wildling.co/prologue/)
+1. ## [leadershippy](https://wildling.co/prologue/)
 ``` css
 html {
     /* sans-serif as a very good base alternative*/
@@ -30,4 +30,4 @@ body {
 }
 ```
 
-0. ## https://www.fontsquirrel.com/
+1. ## https://www.fontsquirrel.com/
