@@ -34,3 +34,5 @@ body {
 
 4. ## [Gill Sans](https://en.wikipedia.org/wiki/Gill_Sans)
 4. ## [Gill Sans](https://www.typewolf.com/site-of-the-day/fonts/gill-sans)
+
+5. ## [Futura](https://www.wfonts.com/font/futura)
